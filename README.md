@@ -2,8 +2,6 @@
 
 A simple stopwatch web application built with HTML, CSS, and JavaScript.
 
-![Stopwatch Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
-
 ## Features
 - Start, pause, and reset functionality
 - Lap time recording
