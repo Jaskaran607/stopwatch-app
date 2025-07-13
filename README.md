@@ -1,6 +1,8 @@
 # Stopwatch Application
 
 A simple stopwatch web application built with HTML, CSS, and JavaScript.
+![Stopwatch Screenshot](./"D:\Pictures\Screenshots\Screenshot 2025-07-13 215046.png") <!-- Add a screenshot if available -->
+
 
 ## Features
 - Start, pause, and reset functionality
